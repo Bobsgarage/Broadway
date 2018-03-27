@@ -1,5 +1,5 @@
 .top{
-  background-image: image('../resources/images/bg1.png');
+  background-image: url('./resources/images/bg1.png');
 }
 
 .top h1{
